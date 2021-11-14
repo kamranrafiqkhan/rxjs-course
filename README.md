@@ -1,1 +1,1 @@
-# rxjs-course-operators
+# rxjs-course
